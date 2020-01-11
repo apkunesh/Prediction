@@ -6,7 +6,6 @@ dependencies:
   - ca-certificates=2019.11.27
   - certifi=2019.11.28
   - fastcache=1.1.0
-  - icc_rt=2019.0.0
   - intel-openmp=2019.4
   - mkl=2019.4
   - mkl-service=2.3.0
@@ -22,8 +21,5 @@ dependencies:
   - six=1.13.0
   - sqlite=3.30.1
   - sympy=1.5
-  - vc=14.1
-  - vs2015_runtime=14.16.27012
   - wheel=0.33.6
-  - wincertstore=0.2
 prefix: C:\ProgramData\Anaconda3\envs\environment
